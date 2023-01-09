@@ -4,6 +4,4 @@
 - No lo sé, pero si funciona no lo toques.
 
 
-![](https://i1.sndcdn.com/artworks-000504413088-559qct-t500x500.jpg)
-
 
