@@ -4,6 +4,6 @@
 - No lo sé, pero si funciona no lo toques.
 
 
-![](https://www.pngkit.com/png/detail/169-1692815_shinji-transparent-sitting-neon-genesis-evangelion-sad.png)
+![](https://i.pinimg.com/736x/83/e2/9a/83e29aeb7c0c2cb77e84bb8d86d2a5f8--neon-genesis-evangelion-purpose.jpg)
 
 
