@@ -4,4 +4,4 @@
 - No lo sé, pero si funciona no lo toques.
 
 
-![](dist/github-contribution-grid-snake.svg)
+![](github-contribution-grid-snake.svg)
