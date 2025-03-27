@@ -14,7 +14,7 @@ I am passionate about technology and development. Between lines of code I find c
 ---
 
 ## My Philosophy
-- Simplicity and efficiency:** I prefer simple solutions that work. If something shines, it is because it has found its own way.
+- **Simplicity and efficiency:** I prefer simple solutions that work. If something shines, it is because it has found its own way.
 - **Passion and resilience:** Programming is my way of transforming ideas into realities, no matter the obstacles.
 
 ---
