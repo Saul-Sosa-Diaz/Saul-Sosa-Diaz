@@ -8,7 +8,7 @@
 ---
 
 ## About me
-I am a programmer with the soul of a fishman. Nice to meet you, don´t get hooked!
+I am a programmer eager to learn and grow. Also I like to fish :)
 
 ---
 
