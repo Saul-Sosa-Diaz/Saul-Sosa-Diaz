@@ -8,8 +8,7 @@
 ---
 
 ## About me
-
-I am passionate about technology and development. Between lines of code I find challenges, inspiration and, yes, even the occasional emotional moment. Every mistake and every success is part of this journey that drives me to learn and create.
+I am a programmer with the soul of a fishman. Nice to meet you, don´t get hooked!
 
 ---
 
